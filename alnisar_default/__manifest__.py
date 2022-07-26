@@ -18,6 +18,10 @@
     'limit_time_cpu': '60',
     'limit_time_real': '120',
     'dbfilter': 'citval_10-12-20',
+    'workers' : '6',
+    'server_wide_modules' : 'web,queue_job',
+    '[queue_job]'
+    'channels' : 'root:2',
 
     # manifest version, if omitted it is backward compatible
     'env-ver': '2',
