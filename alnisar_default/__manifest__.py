@@ -1,6 +1,6 @@
 {
     'name': 'alnisar',
-    'version': '13.0.0.0',
+    'version': '13.0.1.0.0',
     'category': 'Tools',
     'summary': "Proyecto alnisar",
     'author': 'Sdeh',
@@ -19,7 +19,7 @@
     'limit_time_cpu': '60',
     'limit_time_real': '120',
     #'dbfilter': 'citval_10-12-20',
-    ]
+    ],
 
     # manifest version, if omitted it is backward compatible
     'env-ver': '2',
