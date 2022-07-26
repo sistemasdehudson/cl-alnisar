@@ -60,7 +60,7 @@
         'https://github.com/OCA/web.git',
         ##
         'https://github.com/ctmil/contract.git',
-        'https://github.com/CybroOdoo/CybroAddons.git',
+        #'https://github.com/CybroOdoo/CybroAddons.git',
         'https://github.com/itpp-labs/pos-addons.git',
         'https://github.com/odoomates/odooapps.git',
         ##        'https://github.com/sistemasdehudson/sdehposaddons.git',
