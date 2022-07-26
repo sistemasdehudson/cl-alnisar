@@ -21,7 +21,7 @@
     #'dbfilter': 'citval_10-12-20',
     'workers' : '6',
     'server_wide_modules' : 'web,queue_job',
-    '[queue_job]'
+    #'[queue_job]'
     'channels' : 'root:2',
      ],
 
