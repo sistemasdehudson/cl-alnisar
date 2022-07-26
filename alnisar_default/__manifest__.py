@@ -12,18 +12,12 @@
     'installable': True,
     'application': False,
 
-    #'config': [
     'limit_request': '8196',
     'limit_memory_soft': '640000000',
     'limit_memory_hard': '760000000',
     'limit_time_cpu': '60',
     'limit_time_real': '120',
     'dbfilter': 'citval_10-12-20',
-    #'workers' : '6',
-    #'server_wide_modules' : 'web,queue_job',
-    #'[queue_job]'
-    #'channels' : 'root:2',
-    #],
 
     # manifest version, if omitted it is backward compatible
     'env-ver': '2',
