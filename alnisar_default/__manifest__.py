@@ -57,7 +57,7 @@
         'https://github.com/OCA/sale-workflow.git',
         'https://github.com/OCA/web.git',
         ##
-        'https://github.com/ctmil/contract.git',
+        ##'https://github.com/ctmil/contract.git',
         #'https://github.com/CybroOdoo/CybroAddons.git',
         'https://github.com/itpp-labs/pos-addons.git',
         'https://github.com/odoomates/odooapps.git',
@@ -69,6 +69,15 @@
         'https://github.com/filoquin/odoo_retail -b 13.0',
         'https://github.com/OCA/queue -b 13.0',
         'https://github.com/OCA/e-commerce -b 13.0',
+	##
+	'https://github.com/OCA/contract.git -b 13.0',
+        'https://github.com/odoomates/odooapps.git -b 13.0',
+        'https://github.com/OCA/project -b 13.0',
+        'https://github.com/ingadhoc/purchase -b 13.0',
+        'https://github.com/ingadhoc/product -b 13.0',
+        'https://github.com/OCA/project-reporting -b 13.0',
+        'https://github.com/OCA/purchase-workflow -b 13.0',
+        'https://github.com/OCA/delivery-carrier -b 13.0',
     ],
 
     'docker-images': [
